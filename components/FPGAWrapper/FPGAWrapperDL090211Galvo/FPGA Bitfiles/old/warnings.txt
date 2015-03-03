@@ -1,0 +1,3 @@
+C:\HelioScan-master\HelioScan-master\components\FPGAWrapper\FPGAWrapperDL090211Galvo\grabber\initialise.vi (initialise.vi)
+    - The file expected to be at "C:\HelioScan-master\HelioScan-master\components\FPGAWrapper\FPGAWrapperDL090211Galvo\FPGA Bitfiles\PXI-7813R_80MHz.lvbitx" was loaded from "C:\HelioScan-master\HelioScan-master\components\FPGAWrapper\FPGAWrapperDL090211Galvo\FPGA Bitfiles\PCIe-7842R_80MHz.lvbitx".
+    - The file expected to be at "C:\HelioScan-master\HelioScan-master\components\FPGAWrapper\FPGAWrapperDL090211Galvo\FPGA Bitfiles\PXI-7813R_120MHz.lvbitx" was loaded from "C:\HelioScan-master\HelioScan-master\components\FPGAWrapper\FPGAWrapperDL090211Galvo\FPGA Bitfiles\PCIe-7842R_120MHz.lvbitx".
