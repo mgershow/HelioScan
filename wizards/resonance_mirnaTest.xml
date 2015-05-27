@@ -1,0 +1,20 @@
+<wizard>
+  <step>
+    <class_path>components\FPGAWrapper\FPGAWrapperMMS2015Resonance\FPGAWrapperMMS2015Resonance\FPGAWrapperMMS2015Resonance.lvclass</class_path>
+    <configuration>resonant scanner</configuration>
+    <label/>
+    <settings_name/>
+  </step>
+  <step>
+    <class_path>components\Trajectory\TrajectoryAK101022Resonance\TrajectoryAK101022Resonance\TrajectoryAK101022Resonance.lvclass</class_path>
+    <configuration>resonant scanner</configuration>
+    <label/>
+    <settings_name/>
+  </step>
+  <step>
+    <class_path>components\ImagingMode\ImagingModeDL090130Frame\ImagingModeDL090130Frame\ImagingModeDL090130Frame.lvclass</class_path>
+    <configuration>resonant scanner</configuration>
+    <label/>
+    <settings_name/>
+  </step>
+</wizard>

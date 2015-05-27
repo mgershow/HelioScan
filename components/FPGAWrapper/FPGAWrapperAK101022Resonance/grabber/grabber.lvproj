@@ -23,10 +23,10 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="get_time.vi" Type="VI" URL="../../../../../common/utilities/get_time.vi"/>
-			<Item Name="main.lvbitx" Type="Document" URL="../../FPGA Bitfiles/main.lvbitx"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="PCIe-7842R_main.lvbitx" Type="Document" URL="../../FPGA Bitfiles/PCIe-7842R_main.lvbitx"/>
 			<Item Name="scan_specification_cluster.ctl" Type="VI" URL="../../scan_specification_cluster.ctl"/>
 			<Item Name="set_process_priority.vi" Type="VI" URL="../../../../../common/utilities/set_process_priority.vi"/>
 			<Item Name="System" Type="VI" URL="System">
@@ -51,7 +51,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{B1ACEB69-00FB-4504-8283-F63BCDF3B9C1}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{AA768C1C-4C53-437F-9EF0-D215ECECE5E4}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/grabber/grabber.vi</Property>
