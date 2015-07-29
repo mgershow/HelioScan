@@ -1,0 +1,10 @@
+path = File.openDialog("Select a File");
+run("Raw...", "open=[path] image=[16-bit Unsigned] width=25 height=256 offset=0 number=256 gap=0");
+run("Reslice [/]...", "output=1.000 start=Left rotate avoid");
+saveAs("Tiff", "C:\\Users\\Mirna\\Documents\\LabVIEW Data\\2015_07_16\\2015_07_16__18_58_09h\\Reslice of 2015_07_16__18_58_09h__channel_0.tif");
+run("Z Project...", "projection=[Sum Slices]");
+saveAs("Tiff", "C:\\Users\\Mirna\\Documents\\LabVIEW Data\\2015_07_16\\2015_07_16__18_58_09h\\SUM_Reslice of 2015_07_16__18_58_09h__channel_0.tif");
+close();
+close();
+open("C:\\Users\\Mirna\\Documents\\LabVIEW Data\\2015_07_16\\2015_07_16__18_58_09h\\Reslice of 2015_07_16__18_58_09h__channel_0.tif");
+open("C:\\Users\\Mirna\\Documents\\LabVIEW Data\\2015_07_16\\2015_07_16__18_58_09h\\SUM_Reslice of 2015_07_16__18_58_09h__channel_0.tif");
