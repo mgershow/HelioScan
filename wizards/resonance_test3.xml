@@ -1,0 +1,8 @@
+<wizard>
+  <step>
+    <class_path>components\Trajectory\TrajectoryAK101022Resonance\TrajectoryAK101022Resonance\TrajectoryAK101022Resonance.lvclass</class_path>
+    <configuration>standard3</configuration>
+    <label/>
+    <settings_name/>
+  </step>
+</wizard>
