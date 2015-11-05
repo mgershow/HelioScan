@@ -1,5 +1,5 @@
 #ImageJ 1.44d Preferences
-#Fri Aug 07 14:39:56 GMT 2015
+#Mon Aug 10 22:31:58 GMT 2015
 fps=7.0
 new.slices=1
 roicolor=\#FFFF00
@@ -36,7 +36,7 @@ new.fill=0
 .ISP3D.isEqualxyzRatio=false
 bcolor=\#FFFFFF
 menu.size=14
-dir.image=C\:\\Users\\Mirna\\Documents\\LabVIEW Data\\2015_08_06\\2015_08_06__17_44_04h\\
+dir.image=C\:\\Users\\Mirna\\Documents\\LabVIEW Data\\2015_08_10\\2015_08_10__17_26_22h\\
 .b&c.loc=659,571
 .ISP3D.max=100
 recent14=E\:\\GershowLab\\Data\\2015.07.16\\1_galvo_FocalCheck.A1.X1.Oil.45deg.NA0.75\\2015_07_16__15_59_04h__channel00.tif
