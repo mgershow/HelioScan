@@ -1,5 +1,5 @@
 #ImageJ 1.44d Preferences
-#Wed Nov 04 01:35:27 GMT 2015
+#Fri Nov 06 21:37:39 GMT 2015
 fps=7.0
 new.slices=1
 roicolor=\#FFFF00
@@ -12,10 +12,11 @@ new.height=400
 raw.options=0
 fcolor=\#000000
 .ISP3D.yloc=-8
+.editor.case-sensitive=true
 raw.offset=0
 noise.sd=25.0
 mark.width=0
-raw.n=30000000
+raw.n=256
 raw.type=2
 ij.y=225
 ij.x=1338
@@ -36,7 +37,7 @@ new.fill=0
 .ISP3D.isEqualxyzRatio=false
 bcolor=\#FFFFFF
 menu.size=14
-dir.image=C\:\\Users\\Mirna\\Documents\\LabVIEW Data\\2015_11_03\\2015_11_03__18_49_38h\\
+dir.image=C\:\\Users\\Mirna\\Documents\\LabVIEW Data\\2015_11_06\\2015_11_06__16_33_09h\\
 .b&c.loc=659,571
 .ISP3D.max=100
 recent14=C\:\\Users\\Mirna\\Documents\\LabVIEW Data\\2015_10_27\\2015_10_27__16_49_39h\\2015_10_27__16_49_39h__channel_0SUM.tif
