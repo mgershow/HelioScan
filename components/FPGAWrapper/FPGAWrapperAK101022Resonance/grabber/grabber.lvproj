@@ -51,7 +51,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{D28C7475-DDCB-4D42-A622-ECF2CADAF303}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F04C3BCA-F0FD-4CE0-9E65-BC75E1C48DCB}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/grabber/grabber.vi</Property>
