@@ -1,5 +1,5 @@
 #ImageJ 1.44d Preferences
-#Wed Nov 04 01:35:27 GMT 2015
+#Mon Nov 09 17:13:46 GMT 2015
 fps=7.0
 new.slices=1
 roicolor=\#FFFF00
