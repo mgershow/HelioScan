@@ -1,0 +1,10 @@
+<config_data>
+  <FPGA_wrapper>
+    <class_path>components\FPGAWrapper\FPGAWrapperDL090211Galvo\FPGAWrapperDL090211Galvo\FPGAWrapperDL090211Galvo.lvclass</class_path>
+    <configuration>ADC</configuration>
+    <label/>
+    <settings_name/>
+  </FPGA_wrapper>
+  <number_of_channels>3</number_of_channels>
+  <time-out>0.5</time-out>
+</config_data>
