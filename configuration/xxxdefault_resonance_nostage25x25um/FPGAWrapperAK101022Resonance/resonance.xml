@@ -1,0 +1,6 @@
+<configuration>
+  <channel_offsets>0</channel_offsets>
+  <channel_offsets>0</channel_offsets>
+  <ADC_clock_phase>0</ADC_clock_phase>
+  <zintensity_memory_size>16000</zintensity_memory_size>
+</configuration>

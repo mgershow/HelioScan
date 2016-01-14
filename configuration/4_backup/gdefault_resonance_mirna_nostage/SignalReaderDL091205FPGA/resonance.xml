@@ -1,0 +1,10 @@
+<config_data>
+  <FPGA_wrapper>
+    <class_path>components\FPGAWrapper\FPGAWrapperAK101022Resonance\FPGAWrapperAK101022Resonance\FPGAWrapperAK101022Resonance.lvclass</class_path>
+    <configuration>resonance</configuration>
+    <label/>
+    <settings_name/>
+  </FPGA_wrapper>
+  <number_of_channels>2</number_of_channels>
+  <time-out>0.5</time-out>
+</config_data>

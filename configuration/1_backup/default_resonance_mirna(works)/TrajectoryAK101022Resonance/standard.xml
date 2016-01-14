@@ -1,0 +1,23 @@
+<configuration_data>
+  <resonance_frequency>10000</resonance_frequency>
+  <no._of_y-brake_lines_before_flyback>2</no._of_y-brake_lines_before_flyback>
+  <no._of_y-flyback_lines>2</no._of_y-flyback_lines>
+  <no._of_y-brake_lines_after_flyback>2</no._of_y-brake_lines_after_flyback>
+  <maximum_x_scanner_value>100</maximum_x_scanner_value>
+  <maximum_y_scanner_value>100</maximum_y_scanner_value>
+  <fly-forward_offset_default>0</fly-forward_offset_default>
+  <fly-back_offset_default>0</fly-back_offset_default>
+  <scan_segment_default>0</scan_segment_default>
+  <FOVx>0.0002</FOVx>
+  <FOVy>0.0002</FOVy>
+  <objective_magnification>40</objective_magnification>
+  <component_specification>
+    <class_path>components\FPGAWrapper\FPGAWrapperAK101022Resonance\FPGAWrapperAK101022Resonance\FPGAWrapperAK101022Resonance.lvclass</class_path>
+    <configuration>resonance</configuration>
+    <label/>
+    <settings_name/>
+  </component_specification>
+  <number_of_y-fly-back_steps>0</number_of_y-fly-back_steps>
+  <ETL_current_to_Hifo-Box_conversion>20000</ETL_current_to_Hifo-Box_conversion>
+  <ETL_current_offset>0.06</ETL_current_offset>
+</configuration_data>

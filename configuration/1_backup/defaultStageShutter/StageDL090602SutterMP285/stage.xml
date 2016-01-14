@@ -1,0 +1,5 @@
+<config_data>
+  <serial_port>COM3</serial_port>
+  <speed>0.0001</speed>
+  <step_factor>1E-6</step_factor>
+</config_data>

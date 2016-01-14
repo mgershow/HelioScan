@@ -1,0 +1,19 @@
+<configuration_data>
+  <visibility>
+    <Zoom>true</Zoom>
+    <RotateX>true</RotateX>
+    <RotateY>true</RotateY>
+    <TranslateX>true</TranslateX>
+    <TranslateY>true</TranslateY>
+    <TranslateZ>true</TranslateZ>
+  </visibility>
+  <subcomponent_specifications>
+    <intensity_modifier>
+      <class_path>components\AnalogOut\AnalogOutDL101207DAQmx\AnalogOutDL101207DAQmx\AnalogOutDL101207DAQmx.lvclass</class_path>
+      <configuration>resonance</configuration>
+      <label/>
+      <settings_name>user-defined</settings_name>
+    </intensity_modifier>
+  </subcomponent_specifications>
+  <translation_factor>1</translation_factor>
+</configuration_data>

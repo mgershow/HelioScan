@@ -1,0 +1,6 @@
+<config_data>
+  <left_cut-off_fraction>0</left_cut-off_fraction>
+  <right_cut-off_fraction>0</right_cut-off_fraction>
+  <bottom_cut-off_fraction>0</bottom_cut-off_fraction>
+  <input_queue_limit>-1</input_queue_limit>
+</config_data>

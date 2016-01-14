@@ -1,0 +1,13 @@
+<settings>
+  <saving>
+    <autosave>true</autosave>
+    <write_header>true</write_header>
+    <channels_to_save>true</channels_to_save>
+    <channels_to_save>true</channels_to_save>
+  </saving>
+  <shared_variables>
+    <notebook_import_string_shared_variable_ref/>
+    <OME_header_import_string_shared_variable_ref/>
+  </shared_variables>
+  <frames_per_second>5</frames_per_second>
+</settings>

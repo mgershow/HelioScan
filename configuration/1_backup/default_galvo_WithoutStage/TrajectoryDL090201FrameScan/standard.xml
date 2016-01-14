@@ -1,0 +1,5 @@
+<config_data>
+  <x_scan_cut-off_fraction>0.1</x_scan_cut-off_fraction>
+  <x_retrace_fraction>0.1</x_retrace_fraction>
+  <y_retrace_fraction>0</y_retrace_fraction>
+</config_data>

@@ -1,0 +1,19 @@
+<configuration_data>
+  <visibility>
+    <Zoom>true</Zoom>
+    <RotateX>true</RotateX>
+    <RotateY>true</RotateY>
+    <TranslateX>true</TranslateX>
+    <TranslateY>true</TranslateY>
+    <TranslateZ>true</TranslateZ>
+  </visibility>
+  <subcomponent_specifications>
+    <intensity_modifier>
+      <class_path/>
+      <configuration/>
+      <label/>
+      <settings_name/>
+    </intensity_modifier>
+  </subcomponent_specifications>
+  <translation_factor>0</translation_factor>
+</configuration_data>

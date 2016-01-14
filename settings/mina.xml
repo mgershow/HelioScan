@@ -1,0 +1,22 @@
+<settings>
+  <FrameSettings>
+    <ResolutionX>28</ResolutionX>
+    <ResolutionY>80</ResolutionY>
+    <AspectRatioX>1</AspectRatioX>
+    <AspectRatioY>1</AspectRatioY>
+    <FrameScanRate>579</FrameScanRate>
+    <SpeedConstant>pixel dwell time</SpeedConstant>
+  </FrameSettings>
+  <StackSettings>
+    <Frames>80</Frames>
+    <AveragingRepetitions>1</AveragingRepetitions>
+    <StepSize>0</StepSize>
+    <ReturnToOrigin>true</ReturnToOrigin>
+    <TranslationMode>scanHead</TranslationMode>
+    <IntensityCompensationParameters>
+      <A>0</A>
+      <lambda>0</lambda>
+      <C>0</C>
+    </IntensityCompensationParameters>
+  </StackSettings>
+</settings>
