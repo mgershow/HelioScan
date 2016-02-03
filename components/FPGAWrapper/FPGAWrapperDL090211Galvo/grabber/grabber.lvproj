@@ -61,7 +61,7 @@
 				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/build/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/grabber.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{370315F5-35AF-4191-894E-E2DD11450155}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{D2080017-DA23-4B30-91F9-B56420BAD275}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/grabber.vi</Property>
