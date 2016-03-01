@@ -10,6 +10,12 @@
 	<Item Name="methods" Type="Folder">
 		<Item Name="update.vi" Type="Method VI" URL="../update.vi"/>
 	</Item>
+	<Item Name="is user-defined?" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Property</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">is user-defined?</Property>
+		<Item Name="get_user_defined_flag.vi" Type="Property VI" URL="../get_user_defined_flag.vi"/>
+		<Item Name="set_user_defined_flag.vi" Type="Property VI" URL="../set_user_defined_flag.vi"/>
+	</Item>
 	<Item Name="data.ctl" Type="Ability VI" URL="../data.ctl">
 		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
 	</Item>
@@ -18,12 +24,6 @@
 	</Item>
 	<Item Name="init.vi" Type="Ability VI" URL="../init.vi">
 		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
-	</Item>
-	<Item Name="is user-defined?" Type="Property Folder">
-		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Property</Property>
-		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">is user-defined?</Property>
-		<Item Name="get_user_defined_flag.vi" Type="Property VI" URL="../get_user_defined_flag.vi"/>
-		<Item Name="set_user_defined_flag.vi" Type="Property VI" URL="../set_user_defined_flag.vi"/>
 	</Item>
 	<Item Name="state.ctl" Type="Ability VI" URL="../state.ctl">
 		<Property Name="NI.XItem.Name" Type="Str">State</Property>
