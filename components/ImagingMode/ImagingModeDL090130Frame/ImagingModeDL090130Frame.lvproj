@@ -615,7 +615,6 @@
 			<Item Name="XMLElement.lvclass" Type="LVClass" URL="../../../../common/classes/XMLElement/XMLElement/XMLElement.lvclass"/>
 			<Item Name="XSettings.xctl" Type="XControl" URL="../../../../common/xcontrols/XSettings/XSettings/XSettings.xctl"/>
 			<Item Name="XUserDropdown.xctl" Type="XControl" URL="../../../../common/xcontrols/XUserDropdown/XUserDropdown/XUserDropdown.xctl"/>
-			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
 			<Item Name="ImagingModeDL090923Scaffold.lvclass" Type="LVClass" URL="../../ImagingModeDL090923Scaffold/ImagingModeDL090923Scaffold/ImagingModeDL090923Scaffold.lvclass"/>
 			<Item Name="GenericImagingMode.lvclass" Type="LVClass" URL="../../GenericImagingMode/GenericImagingMode/GenericImagingMode.lvclass"/>
 			<Item Name="Advapi32.dll" Type="Document" URL="Advapi32.dll">
@@ -624,6 +623,7 @@
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
