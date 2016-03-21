@@ -838,7 +838,7 @@
 					<Item Name="ADC_clock_temp.vi" Type="VI" URL="../../common_VIs/ADC_clock_temp.vi"/>
 					<Item Name="check_start_conditions_temp.vi" Type="VI" URL="../../common_VIs/check_start_conditions_temp.vi"/>
 					<Item Name="shutter_temp.vi" Type="VI" URL="../../common_VIs/shutter_temp.vi"/>
-					<Item Name="read_4chPMT10x.vi" Type="VI" URL="../../common_VIs/read_4chPMT10x.vi"/>
+					<Item Name="read_4ch.vi" Type="VI" URL="../../common_VIs/read_4ch.vi"/>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
 					<Item Name="main" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
@@ -1457,6 +1457,9 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="ni.dex.rc" Type="Document" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2010/resource/objmgr/ni.dex.rc"/>
+			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
