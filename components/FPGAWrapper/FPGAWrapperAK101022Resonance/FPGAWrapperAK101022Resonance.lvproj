@@ -861,6 +861,7 @@
 					<Item Name="ADC_clock_temp.vi" Type="VI" URL="../../common_VIs/ADC_clock_temp.vi"/>
 					<Item Name="check_start_conditions_temp.vi" Type="VI" URL="../../common_VIs/check_start_conditions_temp.vi"/>
 					<Item Name="shutter_temp.vi" Type="VI" URL="../../common_VIs/shutter_temp.vi"/>
+					<Item Name="read_4ch.vi" Type="VI" URL="../../common_VIs/read_4ch.vi"/>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
 					<Item Name="main" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
