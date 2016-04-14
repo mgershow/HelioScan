@@ -569,6 +569,8 @@
 			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
 			<Item Name="TIFFManagement.dll" Type="Document" URL="../../../../common/libraries/TIFFManagement/VisualCPP/Release/TIFFManagement.dll"/>
 			<Item Name="FPGAWrapperAK101022Resonance.lvclass" Type="LVClass" URL="../../../FPGAWrapper/FPGAWrapperAK101022Resonance/FPGAWrapperAK101022Resonance/FPGAWrapperAK101022Resonance.lvclass"/>
+			<Item Name="config_data_cluster.ctl" Type="VI" URL="../../../FPGAWrapper/FPGAWrapperAK101022Resonance/grabber/config_data_cluster.ctl"/>
+			<Item Name="scan_specification_cluster.ctl" Type="VI" URL="../../../FPGAWrapper/FPGAWrapperAK101022Resonance/scan_specification_cluster.ctl"/>
 			<Item Name="FPGA_reference_control.ctl" Type="VI" URL="../../../FPGAWrapper/FPGAWrapperAK101022Resonance/FPGAWrapperAK101022Resonance/FPGA_reference_control.ctl"/>
 			<Item Name="HelioUpdateMH100803.lvclass" Type="LVClass" URL="../../../../tools/HelioUpdateMH100803/HelioUpdateMH100803/HelioUpdateMH100803.lvclass"/>
 			<Item Name="strip_path_multiple.vi" Type="VI" URL="../../../../common/utilities/strip_path_multiple.vi"/>
@@ -617,8 +619,6 @@
 			<Item Name="read_settings_file_dialog.vi" Type="VI" URL="../../../../common/utilities/read_settings_file_dialog.vi"/>
 			<Item Name="save_configuration.vi" Type="VI" URL="../../../../common/utilities/save_configuration.vi"/>
 			<Item Name="write_settings_file_dialog.vi" Type="VI" URL="../../../../common/utilities/write_settings_file_dialog.vi"/>
-			<Item Name="config_data_cluster.ctl" Type="VI" URL="../../../FPGAWrapper/FPGAWrapperAK101022Resonance/grabber/config_data_cluster.ctl"/>
-			<Item Name="scan_specification_cluster.ctl" Type="VI" URL="../../../FPGAWrapper/FPGAWrapperAK101022Resonance/scan_specification_cluster.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
