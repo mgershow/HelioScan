@@ -1365,7 +1365,6 @@
 				<Item Name="FA6AFDD5E0F42159981A0438B8817197" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/FA6AFDD5E0F42159981A0438B8817197"/>
 				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
-				<Item Name="Flush And Wait Empty Condition.ctl" Type="VI" URL="/&lt;vilib&gt;/dex/Flush And Wait Empty Condition.ctl"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
@@ -1515,7 +1514,6 @@
 			<Item Name="GenericTrajectory.lvclass" Type="LVClass" URL="../../../Trajectory/GenericTrajectory/GenericTrajectory/GenericTrajectory.lvclass"/>
 			<Item Name="get_paths.vi" Type="VI" URL="../../../../common/utilities/get_paths.vi"/>
 			<Item Name="get_project_path.vi" Type="VI" URL="../../../../common/utilities/get_project_path.vi"/>
-			<Item Name="get_time.vi" Type="VI" URL="../../../../common/utilities/get_time.vi"/>
 			<Item Name="HelioUpdateMH100803.lvclass" Type="LVClass" URL="../../../../tools/HelioUpdateMH100803/HelioUpdateMH100803/HelioUpdateMH100803.lvclass"/>
 			<Item Name="Image.lvclass" Type="LVClass" URL="../../../../common/classes/Image/Image/Image.lvclass"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
@@ -1529,9 +1527,6 @@
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -1540,7 +1535,6 @@
 			</Item>
 			<Item Name="Notebook.lvclass" Type="LVClass" URL="../../../../common/classes/NoteBook/Notebook/Notebook.lvclass"/>
 			<Item Name="origin_type_enum.ctl" Type="VI" URL="../../../../common/classes/Image/Image/origin_type_enum.ctl"/>
-			<Item Name="PCIe-7842R_main.lvbitx" Type="Document" URL="../FPGA Bitfiles/PCIe-7842R_main.lvbitx"/>
 			<Item Name="pixel_coordinate_cluster.ctl" Type="VI" URL="../../../../common/clusters/pixel_coordinate_cluster.ctl"/>
 			<Item Name="pixel_raw_data_array.ctl" Type="VI" URL="../../../../common/arrays/pixel_raw_data_array.ctl"/>
 			<Item Name="plugin_specification.ctl" Type="VI" URL="../../../../common/clusters/plugin_specification.ctl"/>
