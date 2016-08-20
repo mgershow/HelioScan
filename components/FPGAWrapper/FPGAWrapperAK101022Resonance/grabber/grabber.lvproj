@@ -40,6 +40,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="PCIe-7842R_main.lvbitx" Type="Document" URL="../../FPGA Bitfiles/PCIe-7842R_main.lvbitx"/>
+			<Item Name="scan message.ctl" Type="VI" URL="../../FPGA scanInfo/scan message.ctl"/>
 			<Item Name="scan_specification_cluster.ctl" Type="VI" URL="../../scan_specification_cluster.ctl"/>
 			<Item Name="set_process_priority.vi" Type="VI" URL="../../../../../common/utilities/set_process_priority.vi"/>
 			<Item Name="System" Type="VI" URL="System">
