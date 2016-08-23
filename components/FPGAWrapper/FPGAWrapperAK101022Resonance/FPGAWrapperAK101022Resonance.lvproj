@@ -942,6 +942,7 @@
 					<Item Name="DAC_voltage_cluster.ctl" Type="VI" URL="../../common_typedefs/DAC_voltage_cluster.ctl"/>
 					<Item Name="check_start_conditions_temp.vi" Type="VI" URL="../../common_VIs/check_start_conditions_temp.vi"/>
 					<Item Name="fakePatternedImage.vi" Type="VI" URL="../testing/fakePatternedImage.vi"/>
+					<Item Name="shutter_temp.vi" Type="VI" URL="/E/GershowLab/Helioscan backups after Github 3_13_2015/35_HelioScan_8_9_2016/components/FPGAWrapper/common_VIs/shutter_temp.vi"/>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
 					<Item Name="main" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
@@ -1622,6 +1623,7 @@
 			</Item>
 			<Item Name="Notebook.lvclass" Type="LVClass" URL="../../../../common/classes/NoteBook/Notebook/Notebook.lvclass"/>
 			<Item Name="origin_type_enum.ctl" Type="VI" URL="../../../../common/classes/Image/Image/origin_type_enum.ctl"/>
+			<Item Name="PCIe-7842R_main.lvbitx" Type="Document" URL="../FPGA Bitfiles/PCIe-7842R_main.lvbitx"/>
 			<Item Name="pixel_coordinate_cluster.ctl" Type="VI" URL="../../../../common/clusters/pixel_coordinate_cluster.ctl"/>
 			<Item Name="pixel_raw_data_array.ctl" Type="VI" URL="../../../../common/arrays/pixel_raw_data_array.ctl"/>
 			<Item Name="plugin_specification.ctl" Type="VI" URL="../../../../common/clusters/plugin_specification.ctl"/>
@@ -1631,6 +1633,7 @@
 			<Item Name="read_settings_file_dialog.vi" Type="VI" URL="../../../../common/utilities/read_settings_file_dialog.vi"/>
 			<Item Name="run_mode_enum.ctl" Type="VI" URL="../../../../main/labview_source/type_definitions/enumerations/run_mode_enum.ctl"/>
 			<Item Name="save_configuration.vi" Type="VI" URL="../../../../common/utilities/save_configuration.vi"/>
+			<Item Name="scan message.ctl" Type="VI" URL="../FPGA scanInfo/scan message.ctl"/>
 			<Item Name="scan_specification_cluster.ctl" Type="VI" URL="../scan_specification_cluster.ctl"/>
 			<Item Name="send_main_trigger.vi" Type="VI" URL="../../../../main/labview_source/main/send_main_trigger.vi"/>
 			<Item Name="set_process_priority.vi" Type="VI" URL="../../../../common/utilities/set_process_priority.vi"/>
