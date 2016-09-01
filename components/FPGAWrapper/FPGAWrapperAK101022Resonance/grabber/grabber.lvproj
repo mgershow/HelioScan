@@ -30,9 +30,11 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="counter_cluster_tagResonant.ctl" Type="VI" URL="../../counter_cluster_tagResonant.ctl"/>
+			<Item Name="DAC_voltage_tagResonantr.ctl" Type="VI" URL="../../../common_typedefs/DAC_voltage_tagResonantr.ctl"/>
 			<Item Name="get_time.vi" Type="VI" URL="../../../../../common/utilities/get_time.vi"/>
 			<Item Name="niFpgaDynamicAddResources.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/dynamic/niFpgaDynamicAddResources.vi"/>
-			<Item Name="niFpgaHostInterfaceSession.ctl" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2010/Targets/NI/FPGA/StockFPGA_IntfPrivate/ScriptTemplates/niFpgaHostInterfaceSession.ctl"/>
+			<Item Name="niFpgaHostInterfaceSession.ctl" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2010/Targets/NI/FPGA/StockFPGA_IntfPrivate/ScriptTemplates/niFpgaHostInterfaceSession.ctl"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -56,6 +58,7 @@
 			<Item Name="PCIe-7842R_main.lvbitx" Type="Document" URL="../../FPGA Bitfiles/PCIe-7842R_main.lvbitx"/>
 			<Item Name="scan message.ctl" Type="VI" URL="../../FPGA scanInfo/scan message.ctl"/>
 			<Item Name="scan_specification_cluster.ctl" Type="VI" URL="../../scan_specification_cluster.ctl"/>
+			<Item Name="scan_specification_tagResonant.ctl" Type="VI" URL="../../scan_specification_tagResonant.ctl"/>
 			<Item Name="set_process_priority.vi" Type="VI" URL="../../../../../common/utilities/set_process_priority.vi"/>
 			<Item Name="System" Type="VI" URL="System">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
