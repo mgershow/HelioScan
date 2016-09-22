@@ -1084,14 +1084,20 @@
 					<Item Name="nirviCommon.vi" Type="VI" URL="/&lt;vilib&gt;/express/rvi/timingcommon/nirviCommon.vi"/>
 					<Item Name="nifxpmath_DesktopException.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/FXPMathLib/SharedSubVIs/common/nifxpmath_DesktopException.vi"/>
 					<Item Name="nifxpmath_DesktopExceptionRpt.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/FXPMathLib/SharedSubVIs/common/nifxpmath_DesktopExceptionRpt.vi"/>
-					<Item Name="nifxpmath_Add_SimConfig.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/FXPMathLib/FxpAdd/subVIs/nifxpmath_Add_SimConfig.ctl"/>
-					<Item Name="DllFxpAddTemp_sub.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/FXPMathLib/FxpAdd/simVIs/DllFxpAddTemp_sub.vi"/>
 					<Item Name="nifxpmath_Mul_SimConfig.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/FXPMathLib/FxpMul/subVIs/nifxpmath_Mul_SimConfig.ctl"/>
 					<Item Name="DllFxpMulTemp_sub.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/FXPMathLib/FxpMul/simVIs/DllFxpMulTemp_sub.vi"/>
+					<Item Name="nifxpmath_Add_SimConfig.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/FXPMathLib/FxpAdd/subVIs/nifxpmath_Add_SimConfig.ctl"/>
+					<Item Name="DllFxpAddTemp_sub.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/FXPMathLib/FxpAdd/simVIs/DllFxpAddTemp_sub.vi"/>
 					<Item Name="nifxpmath_Sub_SimConfig.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/FXPMathLib/FxpSub/subVIs/nifxpmath_Sub_SimConfig.ctl"/>
 					<Item Name="DllFxpSubTemp_sub.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/FXPMathLib/FxpSub/simVIs/DllFxpSubTemp_sub.vi"/>
 					<Item Name="niFpgaGetScratchAppInstance.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/niFpgaGetScratchAppInstance.vi"/>
 					<Item Name="nirviEmuReportErrorAndStop.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/nirviEmuReportErrorAndStop.vi"/>
+					<Item Name="EIO_ResourceConfig.ctl" Type="VI" URL="/&lt;vilib&gt;/eio/EIO_ResourceConfig.ctl"/>
+					<Item Name="niFpgaExecutionStage.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/niFpgaExecutionStage.ctl"/>
+					<Item Name="nirviEmuClasses.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/nirviEmuClasses.ctl"/>
+					<Item Name="niLvFpgaEmuInfo.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/sdk/emulation/public/niLvFpgaEmuInfo.ctl"/>
+					<Item Name="nirviEmuTemplateMethod_errors.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/nirviEmuTemplateMethod_errors.vi"/>
+					<Item Name="nirviEmuTemplateMethod_noerrors.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/nirviEmuTemplateMethod_noerrors.vi"/>
 					<Item Name="niFpgaContainerEmuAddTargetNameIfNeeded.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/DataTransferAndStorage/Container/Common/niFpgaContainerEmuAddTargetNameIfNeeded.vi"/>
 					<Item Name="niFpgaContainerGetUniqueNameForEmu.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/DataTransferAndStorage/Container/Common/niFpgaContainerGetUniqueNameForEmu.vi"/>
 					<Item Name="nirviFifoEmulationCheckTarget.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/FIFO/Fifo_Resource/nirviFifoEmulationCheckTarget.vi"/>
@@ -1113,12 +1119,6 @@
 					<Item Name="niFpgaDataTypeControl.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/DataTransferAndStorage/Container/Common/niFpgaDataTypeControl.ctl"/>
 					<Item Name="niFpgaContainerState.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/DataTransferAndStorage/Container/Common/niFpgaContainerState.ctl"/>
 					<Item Name="nirviRandomDataFPGAFIFO.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/RandomDataEmulation/nirviRandomDataFPGAFIFO.vi"/>
-					<Item Name="EIO_ResourceConfig.ctl" Type="VI" URL="/&lt;vilib&gt;/eio/EIO_ResourceConfig.ctl"/>
-					<Item Name="niFpgaExecutionStage.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/niFpgaExecutionStage.ctl"/>
-					<Item Name="nirviEmuClasses.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/nirviEmuClasses.ctl"/>
-					<Item Name="niLvFpgaEmuInfo.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/sdk/emulation/public/niLvFpgaEmuInfo.ctl"/>
-					<Item Name="nirviEmuTemplateMethod_errors.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/nirviEmuTemplateMethod_errors.vi"/>
-					<Item Name="nirviEmuTemplateMethod_noerrors.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/eio/common/nirviEmuTemplateMethod_noerrors.vi"/>
 					<Item Name="nirvimemoryEmulationManagerCache_Operations.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/Memory/Memory_Emulation/nirvimemoryEmulationManagerCache_Operations.ctl"/>
 					<Item Name="nirvimemoryEmulationManagerCache.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Memory/Memory_Emulation/nirvimemoryEmulationManagerCache.vi"/>
 					<Item Name="nirvimemoryEmulationManagerCache_SetValue.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Memory/Memory_Emulation/nirvimemoryEmulationManagerCache_SetValue.vi"/>
@@ -1556,6 +1556,7 @@
 				<Item Name="FA6AFDD5E0F42159981A0438B8817197" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/FA6AFDD5E0F42159981A0438B8817197"/>
 				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
+				<Item Name="Flush And Wait Empty Condition.ctl" Type="VI" URL="/&lt;vilib&gt;/dex/Flush And Wait Empty Condition.ctl"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
@@ -1677,7 +1678,9 @@
 			<Item Name="conditional_error_clearer.vi" Type="VI" URL="../../../../common/utilities/conditional_error_clearer.vi"/>
 			<Item Name="configuration_paths_cluster.ctl" Type="VI" URL="../../../../common/clusters/configuration_paths_cluster.ctl"/>
 			<Item Name="controls_refs.ctl" Type="VI" URL="../../../../main/labview_source/type_definitions/clusters/controls_refs.ctl"/>
+			<Item Name="counter_cluster_tagResonant.ctl" Type="VI" URL="../counter_cluster_tagResonant.ctl"/>
 			<Item Name="create_random_string.vi" Type="VI" URL="../../../../common/utilities/create_random_string.vi"/>
+			<Item Name="DAC_voltage_tagResonantr.ctl" Type="VI" URL="../../common_typedefs/DAC_voltage_tagResonantr.ctl"/>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -1709,6 +1712,8 @@
 			<Item Name="get_time.vi" Type="VI" URL="../../../../common/utilities/get_time.vi"/>
 			<Item Name="HelioUpdateMH100803.lvclass" Type="LVClass" URL="../../../../tools/HelioUpdateMH100803/HelioUpdateMH100803/HelioUpdateMH100803.lvclass"/>
 			<Item Name="Image.lvclass" Type="LVClass" URL="../../../../common/classes/Image/Image/Image.lvclass"/>
+			<Item Name="integrating single axis kalman state.ctl" Type="VI" URL="../FPGA tracking/integrating single axis kalman state.ctl"/>
+			<Item Name="kalman 3-axis state.ctl" Type="VI" URL="../FPGA tracking/kalman 3-axis state.ctl"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -1717,6 +1722,7 @@
 			<Item Name="make_path_absolute.vi" Type="VI" URL="../../../../common/utilities/make_path_absolute.vi"/>
 			<Item Name="make_path_relative.vi" Type="VI" URL="../../../../common/utilities/make_path_relative.vi"/>
 			<Item Name="mean_values_2Darray.vi" Type="VI" URL="../../../../common/utilities/mean_values_2Darray.vi"/>
+			<Item Name="moving fake image params.ctl" Type="VI" URL="../moving fake image params.ctl"/>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -1734,6 +1740,7 @@
 			<Item Name="pixel_coordinate_cluster.ctl" Type="VI" URL="../../../../common/clusters/pixel_coordinate_cluster.ctl"/>
 			<Item Name="pixel_raw_data_array.ctl" Type="VI" URL="../../../../common/arrays/pixel_raw_data_array.ctl"/>
 			<Item Name="plugin_specification.ctl" Type="VI" URL="../../../../common/clusters/plugin_specification.ctl"/>
+			<Item Name="polar tracking settings.ctl" Type="VI" URL="../FPGA tracking/polar tracking settings.ctl"/>
 			<Item Name="populate_config_or_settings_combo.vi" Type="VI" URL="../../../../common/utilities/populate_config_or_settings_combo.vi"/>
 			<Item Name="range_offset_cluster.ctl" Type="VI" URL="../../../../common/clusters/range_offset_cluster.ctl"/>
 			<Item Name="read_configuration.vi" Type="VI" URL="../../../../common/utilities/read_configuration.vi"/>
