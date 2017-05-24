@@ -1848,7 +1848,6 @@
 			</Item>
 			<Item Name="Notebook.lvclass" Type="LVClass" URL="../../../../common/classes/NoteBook/Notebook/Notebook.lvclass"/>
 			<Item Name="origin_type_enum.ctl" Type="VI" URL="../../../../common/classes/Image/Image/origin_type_enum.ctl"/>
-			<Item Name="PCIe-7842R_main.lvbitx" Type="Document" URL="../FPGA Bitfiles/PCIe-7842R_main.lvbitx"/>
 			<Item Name="pixel_coordinate_cluster.ctl" Type="VI" URL="../../../../common/clusters/pixel_coordinate_cluster.ctl"/>
 			<Item Name="pixel_raw_data_array.ctl" Type="VI" URL="../../../../common/arrays/pixel_raw_data_array.ctl"/>
 			<Item Name="plugin_specification.ctl" Type="VI" URL="../../../../common/clusters/plugin_specification.ctl"/>
@@ -1859,7 +1858,6 @@
 			<Item Name="read_settings_file_dialog.vi" Type="VI" URL="../../../../common/utilities/read_settings_file_dialog.vi"/>
 			<Item Name="run_mode_enum.ctl" Type="VI" URL="../../../../main/labview_source/type_definitions/enumerations/run_mode_enum.ctl"/>
 			<Item Name="save_configuration.vi" Type="VI" URL="../../../../common/utilities/save_configuration.vi"/>
-			<Item Name="scan message.ctl" Type="VI" URL="../FPGA scanInfo/scan message.ctl"/>
 			<Item Name="scan_specification_cluster.ctl" Type="VI" URL="../scan_specification_cluster.ctl"/>
 			<Item Name="scan_specification_tagResonant.ctl" Type="VI" URL="../scan_specification_tagResonant.ctl"/>
 			<Item Name="send_main_trigger.vi" Type="VI" URL="../../../../main/labview_source/main/send_main_trigger.vi"/>
