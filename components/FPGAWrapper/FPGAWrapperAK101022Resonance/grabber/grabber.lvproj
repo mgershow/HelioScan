@@ -78,7 +78,6 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="channels_cluster.ctl" Type="VI" URL="../../../common_typedefs/channels_cluster.ctl"/>
-			<Item Name="counter_cluster_tagResonant.ctl" Type="VI" URL="../../counter_cluster_tagResonant.ctl"/>
 			<Item Name="DAC_voltage_tagResonantr.ctl" Type="VI" URL="../../../common_typedefs/DAC_voltage_tagResonantr.ctl"/>
 			<Item Name="get_time.vi" Type="VI" URL="../../../../../common/utilities/get_time.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
