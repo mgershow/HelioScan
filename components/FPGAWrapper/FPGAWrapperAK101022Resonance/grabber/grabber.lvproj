@@ -83,7 +83,6 @@
 			<Item Name="DAC_voltage_tagResonantr.ctl" Type="VI" URL="../../../common_typedefs/DAC_voltage_tagResonantr.ctl"/>
 			<Item Name="get_time.vi" Type="VI" URL="../../../../../common/utilities/get_time.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
-			<Item Name="moving fake image params.ctl" Type="VI" URL="../../moving fake image params.ctl"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
